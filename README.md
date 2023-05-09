@@ -31,7 +31,12 @@ Here are some ideas to get you started:
 <img align="left" alt="Strapi" src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white" />
 <img align="center" alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
 <img align="left" alt="Adobe Creative Cloud" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
-<img align="left" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 
+### I am a full-stack developer with extensive experience in the MERN stack. I specialize in building web applications with JavaScript, React, Node.js, Express, and MongoDB.
 
+### I have a strong understanding of the full web development cycle, from concept to deployment and maintenance. I have experience with designing, coding, and testing applications, as well as troubleshooting and debugging. I have a deep understanding of the MERN stack and can quickly develop applications with it.
 
+### I am also familiar with other technologies, such as HTML, CSS, AJAX, and jQuery. I am a fast learner and always stay up to date with the latest web development trends.
+
+### I am a hard-working and dedicated developer who is passionate about creating high-quality applications. I am a team player and enjoy working with others to create innovative solutions.
